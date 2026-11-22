@@ -73,7 +73,7 @@ void UART2_Init(){
 
 }
 
-B) DRAW
+B) DRAWING AT BOTTOM
 
 # Question 5
 
@@ -154,5 +154,6 @@ void EUSCI_B0_SPI_Init(void)
 
 }
 
-B) 
+B) <img width="480" height="640" alt="IMG_8639" src="https://github.com/user-attachments/assets/873ba49b-fd32-4af2-812e-48675dc05788" />
+
 
